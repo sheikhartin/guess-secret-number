@@ -36,9 +36,9 @@ done
 echo -e "\nYou lose! The secret number is ${secret_num}."
 read -p "Do you want to give up? [Y/n] " giveup
 if [[ "${giveup,,}" == "y" ]]; then
-  x-www-browser "https://www.quora.com/why-should-we-give-up" &>/dev/null &
+  x-www-browser "https://www.anthrodesk.com/blogs/anthrodesk/10-amazing-benefits-of-not-giving-up" &>/dev/null &
 elif [[ "${giveup,,}" == "n" ]]; then
-  x-www-browser "https://online.concordia.edu/computer-science/pros-and-cons-of-video-gaming" &>/dev/null &
+  x-www-browser "https://vittana.org/13-video-games-pros-and-cons" &>/dev/null &
 else
   x-www-browser "https://bit.ly/3ISq21K" &>/dev/null &
 fi
