@@ -1,7 +1,9 @@
 ## Guess the Secret Number
 
 ![GitHub repo status](https://img.shields.io/badge/status-archived-yellowgreen?style=flat)
+![GitHub license](https://img.shields.io/github/license/sheikhartin/guess-secret-number)
 ![GitHub contributors](https://img.shields.io/github/contributors/sheikhartin/guess-secret-number)
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/sheikhartin/guess-secret-number)
 ![GitHub repo size](https://img.shields.io/github/repo-size/sheikhartin/guess-secret-number)
 
 Test both your logic and you luck with this simple game! I will not explain further, go and do it yourself.
